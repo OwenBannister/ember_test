@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-EmberDataRailsExample::Application.load_tasks
+EmberTest::Application.load_tasks
